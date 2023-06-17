@@ -1,12 +1,12 @@
 [
-  {"nama": "Soekarno", "asal": "Surabaya, Jawa Timur", "sejarah": "Soekarno adalah Proklamator Kemerdekaan ...", "imageResId": "soekarno"},
-  {"nama": "Mohammad Hatta", "asal": "Bukittinggi, Sumatera Barat", "sejarah": "Muhammad Hatta, atau Dr. Mohammad Hatta, ...",  "imageResId": "mohammad_hatta"},
-  {"nama": "Sultan Hasanuddin", "asal": "Gowa, Sulawesi Selatan", "sejarah": "Sultan Hasanuddin adalah pahlawan nasional ...",  "imageResId": "sultan_hasannudin_pahlawan"},
-  {"nama": "Cut Nyak Dien", "asal": "Aceh, Sumatera Utara", "sejarah": "Cut Nyak Dien adalah pahlawan nasional ...",  "imageResId": "cut_nyak_dhien_pahlawan"},
-  {"nama": "Diponegoro", "asal": "Yogyakarta, Jawa Tengah", "sejarah": "Diponegoro adalah pahlawan nasional ...",  "imageResId": "diponegoro"},
-  {"nama": "Tan Malaka", "asal": "Pandan Gadang, Sumatera Barat", "sejarah": "Tan Malaka adalah seorang tokoh ...",  "imageResId": "tan_malaka"},
-  {"nama": "Ki Hajar Dewantara", "asal": "Yogyakarta, Jawa Tengah", "sejarah": "Ki Hajar Dewantara adalah seorang pendidikan ...",  "imageResId": "ki_hajar_dewantara"},
-  {"nama": "RA. Kartini", "asal": "Jepara, Jawa Tengah", "sejarah": "R.A. Kartini adalah seorang pahlawan nasional...",  "imageResId": "ra_kartini"},
-  {"nama": "Teuku Umar", "asal": "Meulaboh, Aceh", "sejarah": "Teuku Umar adalah pahlawan nasional ...",  "imageResId": "teuku_umar"},
-  {"nama": "Agus Salim", "asal": "Padang Panjang, Sumatera Barat", "sejarah": "Agus Salim adalah seorang tokoh nasional ...",  "imageResId": "agus_salim"}
+  {"nama": "Soekarno", "asal": "Surabaya, Jawa Timur", "sejarah": "Soekarno adalah Proklamator Kemerdekaan ...", "imageResId": "Soekarno"},
+  {"nama": "Mohammad Hatta", "asal": "Bukittinggi, Sumatera Barat", "sejarah": "Muhammad Hatta, atau Dr. Mohammad Hatta, ...",  "imageResId": "Mohammad Hatta"},
+  {"nama": "Sultan Hasanuddin", "asal": "Gowa, Sulawesi Selatan", "sejarah": "Sultan Hasanuddin adalah pahlawan nasional ...",  "imageResId": "Sultan Hasannudin Pahlawan"},
+  {"nama": "Cut Nyak Dien", "asal": "Aceh, Sumatera Utara", "sejarah": "Cut Nyak Dien adalah pahlawan nasional ...",  "imageResId": "Cut Nyak Dhien Pahlawan"},
+  {"nama": "Diponegoro", "asal": "Yogyakarta, Jawa Tengah", "sejarah": "Diponegoro adalah pahlawan nasional ...",  "imageResId": "Diponegoro"},
+  {"nama": "Tan Malaka", "asal": "Pandan Gadang, Sumatera Barat", "sejarah": "Tan Malaka adalah seorang tokoh ...",  "imageResId": "Tan Malaka"},
+  {"nama": "Ki Hajar Dewantara", "asal": "Yogyakarta, Jawa Tengah", "sejarah": "Ki Hajar Dewantara adalah seorang pendidikan ...",  "imageResId": "ki hajar dewantara"},
+  {"nama": "RA. Kartini", "asal": "Jepara, Jawa Tengah", "sejarah": "R.A. Kartini adalah seorang pahlawan nasional...",  "imageResId": "RA Kartini"},
+  {"nama": "Teuku Umar", "asal": "Meulaboh, Aceh", "sejarah": "Teuku Umar adalah pahlawan nasional ...",  "imageResId": "teuku umar"},
+  {"nama": "Agus Salim", "asal": "Padang Panjang, Sumatera Barat", "sejarah": "Agus Salim adalah seorang tokoh nasional ...",  "imageResId": "Agus Salim"}
 ]
